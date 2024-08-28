@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+#Fri Jan 25 11:06:42 GMT 2013
+eclipse.preferences.version=1
+encoding//src/Samples/Data_Coverage.py=latin1
+=======
+#Tue Jan 22 17:34:48 CET 2013
+eclipse.preferences.version=1
+encoding//src/Samples/Data_Coverage.py=latin1
+encoding//src/Samples/DifTool.py=latin1
+>>>>>>> fe8556ed67c20d22c2f8e85d0dd0f35fa7d23bb7
+encoding//src/Test/Demo/DifTool/DifTool.py=latin1

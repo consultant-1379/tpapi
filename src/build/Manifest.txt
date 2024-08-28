@@ -1,0 +1,2 @@
+Main-Class: org.python.util.jython
+Class-Path: SybVersion.class

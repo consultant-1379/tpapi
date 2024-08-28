@@ -1,0 +1,6 @@
+#ignore eclipse project files
+
+.project
+.pydevproject
+
+

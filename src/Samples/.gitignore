@@ -1,0 +1,5 @@
+#ignore eclipse project files
+
+*.class
+*.log
+*.txt
